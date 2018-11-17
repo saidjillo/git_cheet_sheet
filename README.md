@@ -14,3 +14,6 @@ git remote add origin <url>
 git push -u origin master
 ```
 
+## push an existing repository from the command line
+git remote add origin <url>
+git push -u origin master
