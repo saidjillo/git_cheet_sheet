@@ -23,3 +23,4 @@ git push -u origin master
 git checkout -b <branch-name> # Create a new branch and check it out
 
 ``` 
+read more on [https://stackoverflow.com/questions/1519006/how-do-you-create-a-remote-git-branch](https://stackoverflow.com/questions/1519006/how-do-you-create-a-remote-git-branch)
