@@ -1,5 +1,2 @@
-### Display path of current working directory
 
-```
-pwd 
-```
+
