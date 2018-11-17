@@ -21,4 +21,5 @@ git push -u origin master
 ## creating new branch
 ```
 git checkout -b <branch-name> # Create a new branch and check it out
+
 ``` 
