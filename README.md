@@ -17,3 +17,8 @@ git push -u origin master
 ## push an existing repository from the command line
 git remote add origin <url>
 git push -u origin master
+
+## creating new branch
+```
+git checkout -b <branch-name> # Create a new branch and check it out
+``` 
